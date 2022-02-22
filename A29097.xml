@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apostate men fit objects of divine care and compassion a sermon preach'd in the Cathedral Church of St. Paul, February the 6th, 1698/9, being the second for this year of the lecture founded by the Honourable Robert Boyle, Esq. / by Samuel Bradford ...</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29097</idno>
+            <idno type="STC">Wing B4107</idno>
+            <idno type="STC">ESTC R19973</idno>
+            <idno type="EEBO-CITATION">12115941</idno>
+            <idno type="OCLC">ocm 12115941</idno>
+            <idno type="VID">54310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apostate men fit objects of divine care and compassion a sermon preach'd in the Cathedral Church of St. Paul, February the 6th, 1698/9, being the second for this year of the lecture founded by the Honourable Robert Boyle, Esq. / by Samuel Bradford ...</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 1st, I, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54310:1"/>
+            <pb facs="tcp:54310:1" rendition="simple:additions"/>
+            <p>
+               <hi>Apoſtate Men fit Objects of Divine Care and Compaſſion.</hi> A SERMON Preach'd in the Cathedral Church of St. <hi>PA<g ref="char:V">Ʋ</g>L, February</hi> the 6th, 1698/9.</p>
+            <p>Being the Second, for this Year, of the Lecture, Founded by the Honourable <hi>Robert Boyle,</hi> Eſq;</p>
+            <p>By <hi>SAMUEL BRADFORD,</hi> M. A. Rector of St. <hi>Mary le Bow.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurst,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide,</hi> near <hi>Mercers Chappel,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:54310:2"/>
+            <pb n="3" facs="tcp:54310:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 TIM. I. 15.</hi>
+                  </bibl>
+                  <p>This is a faithful ſaying, and worthy of all acceptation, that Chriſt Jeſus came into the World, to ſave Sin<g ref="char:EOLhyphen"/>ners, —</p>
+               </q>
+            </epigraph>
+            <p>THESE Words are the more remarkable to our preſent purpoſe, becauſe they were written by one, who, as himſelf tells us, had been <hi>before a Blaſphemer,</hi>
+               <note place="margin">Ver. 13.</note> 
+               <hi>and a Perſecutor, and injurious;</hi> that is, he had bit<g ref="char:EOLhyphen"/>terly inveighed againſt the Chriſtian Profeſſion, and 'tis very probable had ſpoken ill of its divine Author; 'tis certain he had vex'd and perſecuted the Diſciples of Jeſus in a moſt grievous manner: and yet after all this was thorowly convinc'd of the Truth and Excellency of the Chriſtian Reve<g ref="char:EOLhyphen"/>lation, and was not only ſo honeſt as to own this his Conviction upon all occaſions, but endeavour'd alſo to make what reparation he could to the ho<g ref="char:EOLhyphen"/>nour of our Lord, and his injur'd Diſciples, by a zealous preaching and promoting this Religion in the World.</p>
+            <p>Where by the way it may not be unſeaſonable to remark, that whatſoever injuries he had done to our Lord, his Doctrine, or his Followers, had
+<pb n="4" facs="tcp:54310:3"/>been the Effect of <hi>Ignorance and <g ref="char:V">Ʋ</g>nbelief;</hi> nay, he <hi>verily thought with himſelf that he ought to do</hi> what he did,
+<note place="margin">Acts 26.9.</note> being ſtrongly prejudiced from the Prin<g ref="char:EOLhyphen"/>ciples he had imbib'd by his Education. He was not a man that acted againſt the preſent Judgment and Conviction of his own Mind: on the contra<g ref="char:EOLhyphen"/>ry, as he elſewhere tells the great Council of the <hi>Jews,</hi>
+               <note place="margin">Acts 23.1.</note> he had <hi>liv'd in all good Conſcience before God.</hi> His Conſcience indeed had been groſly miſinform'd, with reſpect to the matter of Chriſtianity, and in that reſpect not <hi>good;</hi> but what he means is, that he acted according to his then preſent Perſwaſion; and therefore he ſays, he obtained Mercy; <hi>becauſe he did it ignorantly,</hi>
+               <note place="margin">Ver. 13.</note> 
+               <hi>in unbelief;</hi> which I take no<g ref="char:EOLhyphen"/>tice of partly as an Admonition to all of us, to beware how we indulge any kind of Prejudices, whereby our Judgments may be byaſſed in our In<g ref="char:EOLhyphen"/>quiries after Truth; ſeeing this otherwiſe well<g ref="char:EOLhyphen"/>diſpos'd Man was, meerly from the force of Pre<g ref="char:EOLhyphen"/>judices unwarily receiv'd, kept off from embracing Chriſtianity, nay put upon doing very unwarrant<g ref="char:EOLhyphen"/>able and evil things: but eſpecially I mention this as a ſerious Warning to ſuch, as ſhall in any degree act againſt their Conſciences, thoſe who knowingly and wilfully allow themſelves in any Vice, preſuming to contradict the plain Rules of Natural Religion, even ſuch as they cannot but allow to be ſo. Had St. <hi>Paul</hi> done thus in his ſtate of <hi>Judaiſm,</hi> we have reaſon to conclude, from what he ſays of himſelf, that in all likelyhood he had not <hi>obtain'd</hi> that <hi>Mercy,</hi> whereby he became a Chriſtian. But to proceed.</p>
+            <pb n="5" facs="tcp:54310:3"/>
+            <p> St. <hi>Paul</hi> being a Perſon, on whom God thought it fit to beſtow a Miracle, to conquer the Preju<g ref="char:EOLhyphen"/>dices he lay under, and being by that means tho<g ref="char:EOLhyphen"/>rowly convinc'd of his former Error, and of the Truth of Chriſtianity, he had from that time for<g ref="char:EOLhyphen"/>ward a very warm ſenſe of the Goodneſs and Mercy of God, both to himſelf in particular, and to Sinners in general, in appointing this admirable Method for our Salvation, which he expreſſeth very emphatically in the words of my Text, <hi>This is a faithful ſaying, and worthy of all acceptation, that Chriſt Jeſus came into the world to ſave Sinners; of whom,</hi> ſays he, <hi>I am chief.</hi>
+            </p>
+            <p>And were we all but as deeply ſenſible of the evil and danger of Sin, and of the wretchedneſs of our ſtate conſider'd as Sinners, as our Apoſtle was, we ſhould have the very ſame apprehenſions concerning the Salvation offer'd to us by Jeſus Chriſt, which he had.</p>
+            <p>
+               <hi>This is a faithful ſaying,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'tis a true ſaying, of which we have certain and unqueſtion<g ref="char:EOLhyphen"/>able Evidence of various kinds; <hi>and worthy of all acceptation,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, 'tis not only evidently true; but 'tis moreover what we ought to receive with all readineſs and thankfulneſs, ad<g ref="char:EOLhyphen"/>miring and adoring the divine Goodneſs therein expreſt towards the Children of Men, and con<g ref="char:EOLhyphen"/>gratulating one with another upon account of the Benefits we receive thereby, entertaining what God hath thus reveal'd to us with moſt grateful and joyful hearts. <hi>That Chriſt Jeſus came into the world, to ſave Sinners;</hi> This is the <hi>ſaying</hi> which
+<pb n="6" facs="tcp:54310:4"/>the Apoſtle ſo highly magnifies, and recommends to our acceptance, and which is the ſumme of the Chriſtian Revelation, that the only-begotten Son of God appear'd in Humane Nature, in order to the ſaving the apoſtate Children of Men; that is, to the delivering them from the guilt and the power of their Sins, and the confering upon them all that Happineſs which their Nature is capa<g ref="char:EOLhyphen"/>ble of.</p>
+            <p>My buſineſs in treating on this Argument will be, by God's aſſiſtance, to make good this Aſſer<g ref="char:EOLhyphen"/>tion, by ſuch Evidence as is fit to be offer'd to one who antecedently believes the Being of God, and his Providence, and hath his internal <hi>ſenſe exerciſed to diſcern</hi> Moral <hi>good and evil.</hi>
+            </p>
+            <p>Now the Truth of this <hi>ſaying,</hi> and its Worthi<g ref="char:EOLhyphen"/>neſs to be receiv'd by us muſt appear, either by the intrinſick Evidence which it carries along with it, I mean the Credibility of the thing it ſelf: or the external Atteſtation which hath been given to it, both which are included in this Expreſſion, <hi>Faithful, and worthy of all acceptation.</hi> 'Tis highly worthy of God, and exceedingly Beneficial to us his Creatures, and upon both accounts credible: 'tis alſo ſufficiently atteſted from without, which ſtill increaſes its Credibility.</p>
+            <p>The Atteſtation it hath receiv'd from without, <hi>viz.</hi> from Prophecies compar'd with Events; from Miracles wrought in confirmation of it; from the ſurprizing ſucceſs of its being publiſh'd to the World, is of great uſe, both for the exciting Men ſeriouſly to conſider it, and the perſwading them to believe it; and that the rather, becauſe it muſt
+<pb n="7" facs="tcp:54310:4"/>be own'd, that there are ſome particulars within the compaſs of the Chriſtian Revelation, and ſome circumſtances attending it, which we could not have thought of our ſelves, and which we are not able fully to comprehend or to account for, even after they are in part diſcover'd; but muſt ſubmit our Faith to the Declaration of Almighty God, as it is very fit that a Creature ſhould ſubmit it ſelf in all things to its Maker. Beſides that there may be ſome Doctrines which may thwart the com<g ref="char:EOLhyphen"/>monly receiv'd Prejudices of Mankind, and may therefore require ſomething more than their meer internal Evidence, at leaſt at firſt, to awaken Men to a thorow and impartial Conſideration of them.</p>
+            <p>But yet foraſmuch as I am verily perſwaded, that God never did, and that he is ſo Good, that he never will or can give any external Atteſtation to what directly contradicts the Faculties he hath given us by Nature, nay not to any thing, but what if thorowly and impartially conſider'd will in the main appear in its own nature reaſonable and credible, I ſhall therefore begin with the in<g ref="char:EOLhyphen"/>trinſick Evidence of the Aſſertion in our Text, ſhewing from the Nature and Reaſon of what is here affirm'd, that it is a <hi>credible Saying,</hi> every way worthy of God, and very fit to be moſt readily en<g ref="char:EOLhyphen"/>tertain'd by us, <hi>that Chriſt Jeſus came into the World to ſave Sinners.</hi>
+            </p>
+            <p>In doing this, the Text will lead me into a pro<g ref="char:EOLhyphen"/>per Method, by offering to our Conſideration theſe <hi>three</hi> general heads, <hi>viz.</hi>
+            </p>
+            <pb n="8" facs="tcp:54310:5"/>
+            <p> Who the Perſons are,
+<milestone type="tcpmilestone" unit="unspecified" n="I"/> whom Chriſt Jeſus came to ſave.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> What kind of Salvation he propoſeth to them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> In what way and manner he hath, by his com<g ref="char:EOLhyphen"/>ing into the World, wrought out this Salvation for them.</p>
+            <p>The <hi>laſt</hi> of theſe will take up a conſiderable part of my following Lectures, wherein I ſhall indea<g ref="char:EOLhyphen"/>vour to ſhew the admirable contrivance and ſuit<g ref="char:EOLhyphen"/>ableneſs of this Method of our Salvation. But as a foundation to this, I think it neceſſary to diſ<g ref="char:EOLhyphen"/>courſe firſt of the other <hi>two,</hi> and that as briefly and plainly as I can.</p>
+            <p>I begin with the <hi>firſt,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 
+               <hi>viz.</hi> to conſider who the Perſons are, whom Chriſt Jeſus came to ſave.</p>
+            <p>The Apoſtle calls them <hi>Sinners;</hi> that is in other words, They are Men, Creatures compos'd of rea<g ref="char:EOLhyphen"/>ſonable Souls, and Bodies of Fleſh, who were formed after the Image of God, and were innocent and upright as they came out of his hands; but had apoſtatized from their Maker, violating their Allegiance to him, and thereby diſordering their Natures, and expoſing themſelves to the juſt diſ<g ref="char:EOLhyphen"/>pleaſure of God, with the miſerable effects and conſequences thereof. Now I think it may very much conduce to our preſent Deſign, to ſhew that theſe Creatures were really fit Objects of that ex<g ref="char:EOLhyphen"/>ceeding great Concern and Tenderneſs expreſs'd towards them by their Maker, through his Son Jeſus Chriſt; that conſidering their original Con<g ref="char:EOLhyphen"/>ſtitution,
+<pb n="9" facs="tcp:54310:5"/>together with the manner and the effect of their falling from it, it was highly becoming the good God thus to appear in their behalf.</p>
+            <p>It muſt be acknowledg'd, and why ſhould we be ſhy of owning it? Nay we Chriſtians juſtly glory in it, that the Method of our Salvation by the Goſpel is the moſt ſurprizing thing that falls within the compaſs of humane thought. 'Tis what, before its Revelation, <hi>Eye had not ſeen,</hi>
+               <note place="margin">1 Cor. 2.9.</note> 
+               <hi>nor Ear heard, neither had it enter'd into the Heart of Man.</hi> 'Tis what <hi>the Prophets,</hi> before our Lord's Incarnation, <hi>inquir'd and ſearch'd diligently into.</hi>
+               <note place="margin">1 Pet. 1.12.</note> 'Tis what, ſince the Incarnation, <hi>the Angels</hi> them<g ref="char:EOLhyphen"/>ſelves with great curioſity and admiration <hi>deſire earneſtly to pry into.</hi>
+               <note place="margin">1 Cor. 2.14.</note> 'Tis what the meer <hi>natural Man doth not receive,</hi> and is not at all diſpos'd <hi>to know;</hi> nay what he is apt <hi>to account fooliſhneſs.</hi> 'Tis what even to <hi>the Saints,</hi> or real Chriſtians, hath its <hi>breadth and length, and depth and height,</hi> expreſſing and teſtifying <hi>a Love which paſſeth know<g ref="char:EOLhyphen"/>ledge.</hi> We may as oft as we think of it,
+<note place="margin">Eph. 3.18, 19.</note> in a juſt ſenſe of our infinite diſtance from God, well cry out with the Pſalmiſt. <hi>Lord! what is Man,</hi>
+               <note place="margin">Pſal. 8.4.</note> 
+               <hi>that thou art mindful of him; and the ſon of Man, that thou thus viſiteſt him!</hi> The truth is, there is no<g ref="char:EOLhyphen"/>thing which at firſt view renders Chriſtianity ſo incredible, as the boundleſs and unconceivable Con<g ref="char:EOLhyphen"/>deſcenſion and Love of God expreſt thereby.</p>
+            <p>But if on the other hand we take into Conſide<g ref="char:EOLhyphen"/>ration, that the Goodneſs of God is infinite, like his other Attributes; if we remember that <hi>his thoughts are not our thoughts, nor our ways his ways:</hi>
+               <note place="margin">Iſa. 55.8, 9.</note> 
+               <hi>but that, as the Heavens are higher than the Earth,
+<pb n="10" facs="tcp:54310:6"/>ſo are his ways higher than our ways, and his thoughts than our thoughts;</hi> if we call to mind what he him<g ref="char:EOLhyphen"/>ſelf hath told us in his Word, and what our own Reaſon readily ſubſcribes to,
+<note place="margin">Pſal. 103.13, 14.</note> that <hi>like as a Father pityeth his Children, ſo the Lord pityeth</hi> us his Crea<g ref="char:EOLhyphen"/>tures; that <hi>he knoweth our frame, he remembereth that we are duſt;</hi> if we take in all that is proper to be thought of upon this Argument, both concern<g ref="char:EOLhyphen"/>ing God and Man, we ſhall then be forc'd to ac<g ref="char:EOLhyphen"/>knowledge, that <hi>Sinners</hi> were a proper Object of the Divine Care and Compaſſion in this extraordi<g ref="char:EOLhyphen"/>nary manner.</p>
+            <p>Let us therefore take a diſtinct view of the Per<g ref="char:EOLhyphen"/>ſons to be ſaved by Jeſus Chriſt, both as they are <hi>Men,</hi> and as they are <hi>Sinners.</hi>
+            </p>
+            <p>As they are <hi>Men.</hi>
+            </p>
+            <p>'Tis an unworthy thought of God, to ſuſpect that he ſhould diſregard any thing which he thought fit to make. The giving Being to Crea<g ref="char:EOLhyphen"/>tures was without all doubt the effect of his meer Bounty, becauſe <hi>he is Good,</hi> and taketh pleaſure in <hi>doing Good;</hi> and the very ſame motive which in<g ref="char:EOLhyphen"/>duced him to make any Creature, muſt in all Reaſon be ſuppos'd to prevail with him, to take care of it according to the Nature he hath given it.</p>
+            <p>Now of all the Creatures in this lower World, there are none that pretend to vye with Man, for excellency and dignity of Nature: nay if we con<g ref="char:EOLhyphen"/>ſider Humane Nature thorowly, we ſhall find it endued with ſuch Faculties, as that we cannot con<g ref="char:EOLhyphen"/>ceive there are any Creatures more excellent in kind, though in degree there may, in the Regions above.</p>
+            <pb n="11" facs="tcp:54310:6"/>
+            <p> Men have Bodies indeed form'd out of the Duſt of the Earth, like the other Animals that dwell upon Earth, though in Shape and Portraiture more noble much than any of them:
+<note place="margin">Pſal. 8.5.</note> but with reſpect to their Souls, they are <hi>made a little lower than the Angels,</hi> being <hi>created in the Image,</hi>
+               <note place="margin">Gen. 1.26.</note> 
+               <hi>and after the likeneſs of God,</hi> as <hi>Moſes</hi> expreſſeth it. And of this we may be ſatisfied, beſides the Teſtimony of <hi>Moſes</hi> and the Pſalmiſt, by viewing our ſelves, and obſerving the preſent Ruins of a once more ſtately Fabrick.</p>
+            <p>The Reſemblance of our Maker appears evident<g ref="char:EOLhyphen"/>ly in our Natural Faculties, and much more in our Moral. Our Souls are inviſible indeed, but evi<g ref="char:EOLhyphen"/>dently manifeſt their Being by their various Ope<g ref="char:EOLhyphen"/>rations. They inhabit theſe Bodies in ſuch manner, as to influence and govern every part of them. They do at pleaſure move each Joint and Limb, nay the whole Body at once, without difficulty, in a moment, and by the power of a ſingle thought. They not only manage the Tabernacles they dwell in, but by their means alſo have communication with a world of Beings without them. By the mediation of the Senſes they take in continual No<g ref="char:EOLhyphen"/>tices from all the material Objects within a certain Sphere. They ſee, and hear, and feel whatſoever makes a near approach to them, nay they reach to things at a vaſt diſtance from them. They do not confine their Obſervations to the Earth and Air; but view at once the vaſt circumference of the Heavens, and pry into the Bodies that are plac'd in thoſe diſtant Regions. They not only receive and take in Notices by the mediation of the Senſes;
+<pb n="12" facs="tcp:54310:7"/>but form Ideas of their own of various kinds, in<g ref="char:EOLhyphen"/>venting, compounding, dividing, either according to the nature of things, or at their own pleaſure. They can reflect upon what is paſt, nay recollect what they have forgot, and foreſee things yet to come. They can ſtretch and extend their thoughts till they are quite loſt in the oceans of Immenſity and Eternity. They acquaint themſelves not only with the material part of the World, but the im<g ref="char:EOLhyphen"/>material alſo. From contemplating themſelves, they enlarge their thoughts to other Beings of the ſame kind. They diſcern the Spirits of other Men through the veil of their Bodies, and find out and contemplate an unknown and innumerable number of Spiritual Natures, till at laſt they aſcend to God himſelf, that infinite Spirit, who was the Maker and is the Preſerver of all.</p>
+            <p>And here we are arrived at the top of their knowledge. Not that the Souls of Men are able to comprehend the Nature of that firſt and moſt excellent Being; but they can make ſuch diſcove<g ref="char:EOLhyphen"/>ries of his Divine Perfections, as will naturally produce in them an high Admiration, a profound Reverence, and an ardent Love towards the Deity, and will incline and diſpoſe them to adore and ſerve him, to reſign themſelves to him, and to yield a ready obedience to his Commands.</p>
+            <p>And what thoſe Commands are, the Soul is in ſome meaſure alſo capacitated to diſcern, infering its Duty from the conſideration of its own nature, and the relation it ſtands in to God, and to its fellow-creatures.</p>
+            <pb n="13" facs="tcp:54310:7" rendition="simple:additions"/>
+            <p> And, which is yet an higher Perfection than meer Knowledge, the Souls of Men can perceive the Will of God, and conſequently their own Du<g ref="char:EOLhyphen"/>ty, from certain ſecret inclinations and propenſions which they feel within themſelves, and of which they are apprehenſive even in this degenerate ſtate. That natural regard to God, and looking towards him upon all Emergencies, that approbation of Juſtice and Kindneſs between Man and Man, eſpecially that gratitude for benefits receiv'd, and unavoidable commiſeration towards miſerable Ob<g ref="char:EOLhyphen"/>jects, which are to be found in moſt Men, not de<g ref="char:EOLhyphen"/>bauch'd in a more than common degree, are plain and undeniable Inſtances of this kind, which will not be controverted by thoſe to whom I am offer<g ref="char:EOLhyphen"/>ing theſe Conſiderations, and for which I may be allow'd to appeal to the far greater part of Man<g ref="char:EOLhyphen"/>kind. And I queſtion not, but the like might be obſerv'd, as to moſt other plain and conſiderable inſtances of Moral Vertue. For which reaſon it is, that the Conſciences of Men do ſo naturally and univerſally either accuſe or excuſe them, ac<g ref="char:EOLhyphen"/>cording as they contradict or comply with, not barely the reaſonings, but the natural apprehenſions and inclinations of their Minds.</p>
+            <p>And this indeed I take to be the Perfection of the Humane Soul, as it came out of the hands of God, that it had a capacity not only of knowing God, and it ſelf, and of inferring its Duty by exer<g ref="char:EOLhyphen"/>ciſing its Reaſon: but that it was alſo made to reſemble the Divine Nature in its inclinations and propenſions to all that is good; which inclinations and propenſions, had they been cheriſh'd and im<g ref="char:EOLhyphen"/>prov'd,
+<pb n="14" facs="tcp:54310:8"/>as they might and ought to have been, would have fully diſcover'd the dignity of Humane Nature, and made Men to have appear'd, what God by their make deſign'd them to be.</p>
+            <p>There is yet one Ability more, with which the Humane Soul is endued, not to be paſt over, when we are conſidering the excellency of its Nature, and that is Freedom or Liberty of chooſing, and a Power conſequently of acting according to ſuch choice, without which its Liberty would have been given to it in vain.</p>
+            <p>But ſhall I call this a Perfection, or an Imper<g ref="char:EOLhyphen"/>fection?</p>
+            <p>As it is a Power of freely chooſing that which is good, and as freely purſuing that choice, it muſt be thankfully acknowledg'd to the praiſe of our bountiful Creator, that it is a Perfection, even whereby we are made to reſemble God himſelf, who always freely chooſeth and acteth according to the eternal and immutable Laws of Goodneſs. 'Tis a Talent of great worth, with which Man<g ref="char:EOLhyphen"/>kind is entruſted, and which may be improv'd to very great advantage. It gives us an Ability of offering to God a free-will Offering, of voluntarily doing that which is acceptable to, and rewardable by our Maker. 'Tis that which indeed makes us, ſtrictly ſpeaking, capable of a Reward.</p>
+            <p>But then as Men can at the ſame time chooſe that which is Evil, and purſue the unhappy choice, it muſt be own'd to be an Imperfection; but ſuch an one as ſeems neceſſarily to reſult from the con<g ref="char:EOLhyphen"/>dition of a Creature. Abſolute Perfection belongs to God only; his Nature is too good ever to chooſe
+<pb n="15" facs="tcp:54310:8"/>or act amiſs: but the condition of a Creature is to be defectible of its ſelf; ſo that if it be made capable of chooſing aright, it muſt at the ſame time alſo be capable of chooſing wrong. Liberty implies a Power to determine its choice one way or the other; and there is no ſuch abſolute Per<g ref="char:EOLhyphen"/>fection in a Creature, as can always neceſſarily oblige it to determine it ſelf the right way. Ex<g ref="char:EOLhyphen"/>perience and Uſe may produce ſtrong and con<g ref="char:EOLhyphen"/>firmed Habits of Virtue; and the Grace of God may at any time put a Creature out of all Dan<g ref="char:EOLhyphen"/>ger: but I cannot ſee, how 'tis poſſible to frame an Idea of a created Agent left at Liberty, but it muſt at the ſame time be fallible and mutable. But this may ſuffice to ſhew the dignity of the Humane Soul with reſpect to its Liberty, that it is made capable of chooſing and acting freely by the ſame Rules by which God himſelf chooſeth and acteth.</p>
+            <p>And had Men always acted, according to the deſign of their Beings, the excellency of their Na<g ref="char:EOLhyphen"/>ture would have plainly appear'd in a whole world of intelligent and reaſonable Agents, exerciſing all the Faculties before-mention'd regularly and or<g ref="char:EOLhyphen"/>derly; acknowledging, adoring, magnifying, and ſerving their Maker; admiring his wonderful Works, and rendering to him with one conſent the Praiſes due upon the account of them; living in perfect Amity one with another; diſcharging readily all the Offices of Beneficence; performing and enjoying all the Benefits and Pleaſures of mu<g ref="char:EOLhyphen"/>tual Society; and deriving from Heaven all thoſe Bleſſings which would have render'd their abode
+<pb n="16" facs="tcp:54310:9"/>here perfectly eaſie and comfortable; and if God ſhould have thought it fit to have tranſlated them to any ſuperiour Regions, as a reward of their Obedience here, they would there alſo have ſpent a happy Eternity, in the Enjoyment of their Maker, themſelves, and one another.</p>
+            <p>I mention their tranſlation to ſome other Re<g ref="char:EOLhyphen"/>gions, becauſe all thoſe Powers of Soul which I have been diſcourſing of, imply nothing but what is immaterial and ſpiritual, and conſequently im<g ref="char:EOLhyphen"/>mortal; and if Men had uſed their Liberty aright in this ſtate of tryal, it is not to be conceiv'd, that God would have permitted the corruption of the Body; but rather have preſerv'd for ever that Union which himſelf had given to the two con<g ref="char:EOLhyphen"/>ſtitutive parts of Humane Nature, and have aſ<g ref="char:EOLhyphen"/>ſign'd them ſuch places of reſidence as might have been fit for Men improv'd and confirm'd in Virtue and Goodneſs.</p>
+            <p>What I have hitherto been diſcourſing concern<g ref="char:EOLhyphen"/>ing the Nature of Mankind, appears to me in it ſelf highly reaſonable, and I think will do ſo upon ſerious conſideration, to ſuch a Deiſt as I am ar<g ref="char:EOLhyphen"/>guing with: and if ſo; I would then proceed to ask, whether ſuch Creatures as theſe are not fit Objects of the Divine Care; and if they are fallen, of the Divine Compaſſion alſo, ſuppoſing any of them capable of a Recovery from their lapſed Eſtate? Will it not appear very worthy of the infinitely good God, to concern himſelf in ſome extraordinary way, for the reſtoration and ſalva<g ref="char:EOLhyphen"/>tion of Beings, whom he had form'd after this ex<g ref="char:EOLhyphen"/>cellent manner, to whom he had imparted ſo many
+<pb n="17" facs="tcp:54310:9"/>of his own Perfections in ſuch a degree, and whom he had made capable of being for ever happy in his Favour?</p>
+            <p>But for the farther illuſtration of this matter,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> we may in the next place conſider the Perſons whom Chriſt Jeſus came to ſave, as they are in their fallen ſtate, <hi>Sinners,</hi> as our Text calls them, and ſee whether under that denomination alſo, they are not proper Objects of the Divine Com<g ref="char:EOLhyphen"/>paſſion, even in ſuch a degree as it is expreſs'd by the undertaking of our Redeemer.</p>
+            <p>The Method of our Salvation by Jeſus Chriſt is ſo contrived (as I hope to ſhew hereafter) as not only to teſtifie the Compaſſion of God towards Sinners; but alſo his Hatred of Sin: To make it appear therefore that ſuch a Method was agree<g ref="char:EOLhyphen"/>able to the Divine Nature, we ſhall do well to conſider the condition of Men, as <hi>Sinners;</hi> to which purpoſe it may be proper,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To take into conſideration the nature of Sin.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> To obſerve the miſerable conſequences of it to Mankind. And,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> To inquire how Men were drawn into the com<g ref="char:EOLhyphen"/>miſſion of it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To take into conſideration the nature of Sin.</p>
+            <p>I doubt not but thoſe, who undervalue our bleſ<g ref="char:EOLhyphen"/>ſed Saviour's Undertaking for the recovery of Sin<g ref="char:EOLhyphen"/>ners, have at the ſame time very ſlight apprehen<g ref="char:EOLhyphen"/>ſions of the evil of Sin. They are apt to account it a matter of no great conſideration or conſe<g ref="char:EOLhyphen"/>quence, for ſo inconſiderable a Creature as they
+<pb n="18" facs="tcp:54310:10"/>would have Man to be, to gratifie (ſuppoſe) the inclinations of his fleſhly part, though againſt the Dictates of his Mind, and the Laws of his Maker. But this proceeds from their want of a due ſenſe of the nature and reaſon of things.</p>
+            <p>For to ſin againſt God, is for a Creature to re<g ref="char:EOLhyphen"/>bel againſt his Creator and Preſerver; 'tis to op<g ref="char:EOLhyphen"/>poſe his Will to the Will of the ſupreme Lord and Sovereign of the Univerſe; 'tis to diſturb that excellent Order, which is appointed and ſet<g ref="char:EOLhyphen"/>tled by him who made all things very good; 'tis for a Man to aſſume to himſelf a Liberty of do<g ref="char:EOLhyphen"/>ing that which God will not allow himſelf to do, namely to vary from the eternal and unalter<g ref="char:EOLhyphen"/>able Laws of Truth and Goodneſs, thoſe Laws which reſult neceſſarily from the Nature of God, and the condition of created Beings; 'tis reſiſt<g ref="char:EOLhyphen"/>ing the higheſt Power; contradicting unerring Wiſdom; diſobliging infinite Goodneſs; making diſingenuous and ungrateful Returns to the moſt endearing Obligations; 'tis in a word thwarting the true judgment and perverting the natural byaſs of a Man's own Mind, and acting contrary to the very frame and deſign of his Nature.</p>
+            <p>Now whatſoever is abſurd or monſtrous in Na<g ref="char:EOLhyphen"/>ture, we are apt to conceive an abhorrence at the firſt appearance of it: and whoſoever is en<g ref="char:EOLhyphen"/>dued with Moral Principles ought in like man<g ref="char:EOLhyphen"/>ner to feel a deteſtation ariſing in his Soul, when he conſiders the nature of Sin, as I have here re<g ref="char:EOLhyphen"/>preſented it.</p>
+            <pb n="19" facs="tcp:54310:10"/>
+            <p> Doth not every ingenuous and well-diſpoſed Mind ſeverely cenſure and deteſt the untoward behaviour of a graceleſs Child towards a wiſe and tender Parent? The unworthy carriage of a rebellious Subject, towards a juſt and kind Prince, one who is truly the Father of his Country? Eſpecially when the Rebel not only diſhonours his Superiors, but at the ſame time diſturbs the Peace and good Order of the whole Community? Do not all Men of good ſenſe and honeſt diſpoſition abhor him who ſhall make ſpightful or ungrateful returns to a Benefactor, or a Friend, to whom he has been extremely beholden? Who is there that does not deſpiſe the Man that degrades and vilifies himſelf, by doing things altogether unworthy of his Birth, and Education, or Profeſſion?</p>
+            <p>Why all this, and infinitely more is in the na<g ref="char:EOLhyphen"/>ture of a Sin voluntarily committed againſt Al<g ref="char:EOLhyphen"/>mighty God.</p>
+            <p>And is it not credible then, that ſo holy and good a Being as God is, ſhould be inclin'd to ſave ſuch of his Creatures as are capable of Salvation, from ſo great an Evil? and that he ſhould effect it in ſuch a way, as may convince them at once both of his compaſſion towards them, and his ab<g ref="char:EOLhyphen"/>horrence of their evil doings?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> But to render this the more evident, we may in the next place obſerve the miſerable conſequences of Sin to Mankind; and that, either in any ſingle Sinner apart, or in the maſs and bulk of Mankind in general.</p>
+            <pb n="20" facs="tcp:54310:11"/>
+            <p> The ſtate of every particular Sinner is extreme<g ref="char:EOLhyphen"/>ly miſerable. A Man has no ſooner conſented to Iniquity, but he is naturally fill'd with great un<g ref="char:EOLhyphen"/>eaſineſs of Mind, ariſing from Shame and Fear, from a conſciouſneſs of having done an unworthy act, and an apprehenſion of the Miſchiefs that may follow.</p>
+            <p>The very firſt Act is a mighty Diſorder, as be<g ref="char:EOLhyphen"/>ing an abuſe of that Liberty with which he was entruſted, and a contradiction to that natural inclination with which he was endued by his Maker.</p>
+            <p>By this means the tone of his Spirit is (as it were) immediately relaxd; the Will corrupted; the natural propenſion of the Soul towards God and Goodneſs weaken'd, and a contrary diſpoſi<g ref="char:EOLhyphen"/>tion perhaps introduc'd; the Appetites and Paſ<g ref="char:EOLhyphen"/>ſions, which were made to be rul'd, having once broke looſe from the Government they were plac'd under, are apt thence-forward to become impe<g ref="char:EOLhyphen"/>tuous and arbitrary; the Underſtanding having been once miſlead or over rul'd, is for the future leſs able to diſcern clearly, or to judge Impar<g ref="char:EOLhyphen"/>tially; in a word, Innocency and Integrity are loſt.</p>
+            <p>Every repeated Act ſtrengthens the evil Habit, and increaſes the diſorder which is thus unhappily begun in all the Faculties.</p>
+            <p>If the Man continues to be a Sinner only in a lower degree, he will find a perpetual ſtruggle and conflict within his breaſt, his Underſtanding, and Reaſon, and Conſcience directing and leading
+<pb n="21" facs="tcp:54310:11"/>him one way, whilſt his Appetites and Paſſions hurry him the other,
+<note place="margin">Rom. 7.23.</note> 
+               <hi>the Law in his Members war<g ref="char:EOLhyphen"/>ring againſt the Law in his Mind,</hi> and for the moſt part <hi>bringing him into Captivity;</hi> he neither ap<g ref="char:EOLhyphen"/>proving what he does, nor finding himſelf at all diſpos'd to do what he approves; <hi>wretched Man that he is!</hi>
+            </p>
+            <p>And if he be grown a harden'd Sinner, he is ſtill the more <hi>wretched,</hi> becauſe more incurable; though at the ſame time leſs ſenſible of his evil condition.</p>
+            <p>And all this while he is exceedingly eſtrang'd and alienated from God, the Author of his Be<g ref="char:EOLhyphen"/>ing, and the Fountain of all Good; he is aſham'd and afraid to approach to him, upon whom he intirely depends, or to addreſs himſelf to him whoſe aid he ſtands in need of every moment; he is conſcious of having given him offence, and therefore juſtly apprehends his diſpleaſure.</p>
+            <p>This is livelily repreſented by <hi>Moſes,</hi> in the caſe of our firſt Parents,
+<note place="margin">Gen. 3.8, 9, 10.</note> who immediately upon their diſobeying the Command of God, hid themſelves from his face, being aſham'd and afraid to ſee or hear of him, whom juſt before they had con<g ref="char:EOLhyphen"/>vers'd with to their great ſatisfaction and com<g ref="char:EOLhyphen"/>fort. And every Sinner, that is not paſt feeling, may find ſomething very like this within him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>This is the natural ſtate of Sin; beſides the conſequences which may alſo follow from the diſ<g ref="char:EOLhyphen"/>pleaſure of Almighty God, who, we ſee, even in this World hath made us ſenſible of his diſplea<g ref="char:EOLhyphen"/>ſure,
+<pb n="22" facs="tcp:54310:12"/>by the many Evils we are neceſſarily expos'd to, during a ſhort Life, ſuch as Diſappointments, Wants, Sickneſs, Pain, Sorrows and Miſeries of various kinds; and at laſt Death it ſelf, with the very <hi>fear</hi> of which moſt Men are <hi>all their life time ſubject to bondage.</hi> All theſe Evils the Scriptures aſſure us are the reſults of Sin; and even without Revelation, upon the meer Princi<g ref="char:EOLhyphen"/>ples of Morality, I cannot ſee how we can judge otherwiſe.</p>
+            <p>And beſides all this, the Soul (as I took no<g ref="char:EOLhyphen"/>tice before) being apprehenſive of its own Spiri<g ref="char:EOLhyphen"/>tual and Immortal Nature, cannot but forebode the perpetual continuance of its preſent infelicity, with the addition of it knows not what Evils in ſome future ſtate of things, the very forethought of which muſt be very terrible to it even in this Life.</p>
+            <p>And if we can obſerve ſo much Miſery in the condition of a particular Sinner, how much more ſhall we diſcover, if we enlarge our thoughts to the whole maſs of Mankind?</p>
+            <p>If we might be allow'd to take our view from the Hiſtory of <hi>Moſes,</hi> it would give us a very melancholy proſpect. The very firſt Man that was born into the World fell into no leſs a Crime, than that of imbruing his hands in the blood of his innocent Brother.
+<note place="margin">Gen. 4.8.</note> From that time forward Wickedneſs of all ſorts increas'd apace, till it ſeem'd good to Almighty God to cut off at once the whole race of Mankind, excepting <hi>Noah</hi> and his Family, declaring this as the reaſon of his ſe<g ref="char:EOLhyphen"/>vere
+<pb n="23" facs="tcp:54310:12"/>proceeding, that God ſaw, that <hi>the wicked<g ref="char:EOLhyphen"/>neſs of Man was great in the Earth,</hi>
+               <note place="margin">Gen. 6.5.</note> 
+               <hi>and that every imagination of the thoughts of his heart was only evil continually.</hi>
+            </p>
+            <p>In the ſequel of that Hiſtory we find that ſoon after the Flood, the World was again corrupted in a prodigious manner, in ſo much that in the time of <hi>Abraham,</hi> within little more than Four Hundred Years, Idolatry had ſpread it ſelf ſo uni<g ref="char:EOLhyphen"/>verſally, as to have infected even the Family of <hi>Shem,</hi> ſo that God thought fit to call forth <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> from his Country and his Kindred, in order to the preſerving him and his Poſterity in the Worſhip of the one true God, the Maker of Hea<g ref="char:EOLhyphen"/>ven and Earth. And if Idolatry had thus pre<g ref="char:EOLhyphen"/>vail'd, we may conclude that other Crimes were no leſs rife; forſaking of God being the founda<g ref="char:EOLhyphen"/>tion of all other Evil.</p>
+            <p>If, laying aſide the Hiſtory of <hi>Moſes,</hi> we ſhould conſider the ſtate of Mankind, according to all other accounts given of it, it will ſtill come to the ſame iſſue, namely that the generality of Men were ſoon degenerated into the moſt unrea<g ref="char:EOLhyphen"/>ſonable and unnatural practices that can be thought of.</p>
+            <p>The repreſentation which St. <hi>Paul</hi> makes of the Pagan World, was undoubtedly true,
+<note place="margin">Rom. 1.21,</note> that <hi>they were become vain in their imaginations, having their fooliſh hearts darken'd;</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> that <hi>they had chang'd the glory of the uncorruptible God, into images made like to corruptible Man, and to birds, and four-footed beaſts, and creeping things.</hi> Nay, which is yet
+<pb n="24" facs="tcp:54310:13"/>more to be deteſted, they pay'd their religious Adorations to Devils themſelves; for, as St. <hi>Paul</hi> truly pronounces,
+<note place="margin">1 Cor. 10.20.</note> 
+               <hi>the things which the Gentiles ſa<g ref="char:EOLhyphen"/>crific'd, they ſacrific'd to Devils, and not to God.</hi> The Prince of the power of the Air, with all his accurſed attendants, had aſſumed the Title and Stile of Gods, and ſo far tyrannized over the Children of Men, as to reduce them to a ſlaviſh dread, and vile Worſhip of theſe wicked and in<g ref="char:EOLhyphen"/>fernal Spirits. And what after this could be ex<g ref="char:EOLhyphen"/>pected, but that as we are again told in the place before-cited, they ſhould fall into the moſt un<g ref="char:EOLhyphen"/>natural and brutal Luſts alſo? <hi>For this cauſe,</hi> ſays he,
+<note place="margin">Rom. 1.26.</note> namely their having thus forſaken God, <hi>he gave them up to vile affections,</hi> &amp;c. We can<g ref="char:EOLhyphen"/>not better deſcribe them, than in the elegant Ex<g ref="char:EOLhyphen"/>preſſions of the ſame Apoſtle;
+<note place="margin">Eph. 4.17, 18,</note> 
+               <hi>They walk'd in the vanity of their mind, having the underſtanding dar<g ref="char:EOLhyphen"/>kened, being alienated from the life of God, through the ignorance that is in them, becauſe of the blind<g ref="char:EOLhyphen"/>neſs of their heart;
+<milestone type="tcpmilestone" unit="unspecified" n="19"/> Who being paſt feeling gave themſelves over unto laſciviouſneſs, to work all un<g ref="char:EOLhyphen"/>cleanneſs with greedineſs. They were,</hi> as he elſe<g ref="char:EOLhyphen"/>where ſays,
+<note place="margin">Tit. 3.3.</note> 
+               <hi>fooliſh, diſobedient, deceived;</hi> not only <hi>ſerving divers luſts and pleaſures,</hi> but moreover, <hi>living in malice and envy, hateful, and hating one another.</hi> This was the ſtate of the Pagan World, when our Saviour appeared in it.</p>
+            <p>There were indeed ſome few to be found, even in the midſt of all this Corruption, who had not forſaken God, and degenerated into Vice, in ſo heinous a degree; the Principles of natural Reli<g ref="char:EOLhyphen"/>gion
+<pb n="25" facs="tcp:54310:13"/>having in ſome meaſure prevail'd with them: but theſe were very rarely to be met with.</p>
+            <p>There was, it's true, a ſmall Body of Men, the <hi>Jews</hi> I mean, whom God had by an extraor<g ref="char:EOLhyphen"/>dinary Providence taken out of the maſs of Man<g ref="char:EOLhyphen"/>kind, in order to inſtruct and educate them in better manner. But even theſe were very hardly kept to the obſervance of thoſe Laws which God had given them. They eaſily and frequently de<g ref="char:EOLhyphen"/>generated into Idolatry, and the other evil pra<g ref="char:EOLhyphen"/>ctices of their Neighbours; and when after a te<g ref="char:EOLhyphen"/>dious Captivity they were at laſt cur'd of their Idolatry, yet after all they generally attain'd to but very mean apprehenſions either of God, or of the nature of Religion; they contented them<g ref="char:EOLhyphen"/>ſelves for the moſt part with the obſervance of the ritual part of their Law, whilſt the <hi>two great Commandments</hi> both of their Law, and of all true Religion, <hi>the Love of God and their Neighbour,</hi> were groſly neglected by them; in ſo much that when our Saviour appear'd amongſt them, he found the greater part of them as indiſpos'd to receive him and his Doctrine, as the Gentiles them<g ref="char:EOLhyphen"/>ſelves were.</p>
+            <p>'Tis true, God had not left Mankind, not the reſt of the World, much leſs the <hi>Jews,</hi> without various means proper for the preſerving of them from theſe Corruptions. <hi>He taught</hi> all Men di<g ref="char:EOLhyphen"/>vers ways, as I ſhew'd in my former Diſcourſe, though they did not <hi>hear and learn</hi> of him. But this was ſtill an aggravation of their Miſery, that all the Methods of Divine Providence for their
+<pb n="26" facs="tcp:54310:14"/>good had been fruſtrated and render'd ineffectual by them.</p>
+            <p>And was not this a deplorable ſtate, and ſuch as might well move a God of infinite Goodneſs to find out and appoint ſome more effectual Me<g ref="char:EOLhyphen"/>thod, for the recovery of this his ruin'd Creati<g ref="char:EOLhyphen"/>on? Could he, do we think, look on, and be<g ref="char:EOLhyphen"/>hold the great Enemy both of himſelf and his Creation, thus inſulting and triumphing; the moſt excellent Creature he had in this lower Re<g ref="char:EOLhyphen"/>gion thus abus'd and ſpoil'd; and as the conſe<g ref="char:EOLhyphen"/>quence thereof the whole inferiour Creation in diſorder and confuſion; and not interpoſe in ſome extraordinary and ſurprizing manner? But this will ſtill appear more becoming the Divine Nature, if we enquire, in the laſt place,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> How Men were drawn into the commiſſion of Sin.</p>
+            <p>The caſe, as repreſented by <hi>Moſes,</hi> which is what the Chriſtian Revelation takes for grant<g ref="char:EOLhyphen"/>ed, was certainly very compaſſionable. That our firſt Parents were ſet upon, whilſt they were as yet unexperienc'd, by a ſubtil and mali<g ref="char:EOLhyphen"/>cious Enemy, who made his attacks firſt upon the weaker Sex, and by her prevail'd upon the Man, inveigling them by a ſly and falſe Suggeſtion, ar<g ref="char:EOLhyphen"/>tificially repreſented, making uſe of their ſenſi<g ref="char:EOLhyphen"/>tive Powers to bafflle their intellectual, impoſing upon their Underſtandings by craft and confidence, and perſwading them on a ſudden, without con<g ref="char:EOLhyphen"/>ſulting either God or their own Reaſon, to do a
+<pb n="27" facs="tcp:54310:14"/>raſh and dangerous Act, by which they expos'd both themſelves and their Poſterity to all the evil conſequences, which either naturally or judi<g ref="char:EOLhyphen"/>cially follow'd.</p>
+            <p>But waving this (though without conſidering it as a Divine Revelation, it is moſt reaſonable to ſuppoſe that the general Corruption of Humane Nature began in ſome ſuch way) waving this I ſay, and taking Humane Nature as it appears, the circumſtances of Sinners will ſtill ſeem very compaſſionable.</p>
+            <p>For although Man was without Queſtion made upright, yet being endued with Liberty, he muſt at the very beſt, (as I before obſerv'd) be fallible and mutable. His immaterial Spirit is join'd to a Body of Fleſh, and plac'd in the midſt of abun<g ref="char:EOLhyphen"/>dance of ſenſible Objects, that it may be capable of a Tryal; and though it might have many ad<g ref="char:EOLhyphen"/>vantages in its uncorrupt ſtate, which at preſent it wants, yet ſtill it was lyable to be impos'd up<g ref="char:EOLhyphen"/>on and drawn in.</p>
+            <p>Thoſe who firſt ſin'd may very well be ſup<g ref="char:EOLhyphen"/>pos'd to have done it, before their good Habits were confirm'd by Experience and Uſe, and that conſequently there was ſomewhat of ſurprize, as well as ſome degree of inconſiderateneſs and raſh<g ref="char:EOLhyphen"/>neſs in the action. And thoſe who have ſince grown up, (as all but our firſt Parents muſt have done from a ſtate of infancy, are ſtill in harder circumſtances. Their Bodily Tempers, which have a great influence upon the Mind, can be no better than what their Parents could communi<g ref="char:EOLhyphen"/>cate.
+<pb n="26" facs="tcp:54310:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:54310:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:54310:16"/>Their Senſes are for many years buſily ex<g ref="char:EOLhyphen"/>ercis'd, before their Reaſon is thorowly awake. They are ſurrounded with all manner of Temp<g ref="char:EOLhyphen"/>tations; and they ſee abundance of dangerous Examples in a degenerate World. They are for a long time weak and unexperienc'd; and many of them over and above betray'd by an untoward or a careleſs Education.</p>
+            <p>'Tis true, not one of all theſe Conſiderations will excuſe the Sinner, and that for this plain Reaſon; becauſe the firſt Sinner, whoſever he was, being ſuppos'd to be made upright, 'tis not to be conceiv'd he could have fallen, but by ne<g ref="char:EOLhyphen"/>glecting to depend upon his Maker, and apply himſelf to him. For an intellectual Creature not to depend upon God, and apply it ſelf to him upon all occaſions, is an inexcuſable fault; and had thoſe who firſt conſented to Iniquity done but thus much, 'tis very reaſonable to believe, that the God who made them, would have afforded them his aſſiſtance. Nay (as I hope to ſhew in the progreſs of theſe Diſcourſes) even now, under all the diſadvantages we are born into the World and brought up with, God hath made ſuch pro<g ref="char:EOLhyphen"/>viſion through Jeſus Chriſt, that nothing but a wilful and unaccountable neglect of God can ruin us. Here began the Apoſtacy and the Miſery of Mankind, and in the ſame way they are ſtill continued, <hi>viz.</hi> in Mens neglecting to depend up<g ref="char:EOLhyphen"/>on and look up to that God who never forſakes any of his Creatures, till they firſt forſake him. So that what I have alleged under this laſt head,
+<pb n="29" facs="tcp:54310:16"/>does not excuſe the Sinner: but yet (which is what I alleged it for) it renders his caſe exceed<g ref="char:EOLhyphen"/>ingly compaſſionable to a God of infinite Good<g ref="char:EOLhyphen"/>neſs and Mercy.</p>
+            <p>The ſumme of all I have ſaid upon this Ar<g ref="char:EOLhyphen"/>gument is, that <hi>this is a credible ſaying, that Chriſt Jeſus came into the World to ſave Sinners.</hi> For if <hi>Sinners</hi> be ſuch Creatures as I have repreſent<g ref="char:EOLhyphen"/>ed them, both before and ſince their Apoſtacy, it cannot but be <hi>credible,</hi> that he who made them ſhould appoint ſome way for their Recovery. And though we could not be fully aſſur'd of this without a Revelation, much leſs could have thought of the Method which it hath pleaſed God to take; yet as we might naturally hope, that God would extend his compaſſion to us; ſo we have all the reaſon in the World readily to accept a Revelation which aſſures us, that God hath done it.</p>
+            <p>What the Way and Method of our Salvation is, our Text tells us, and this will fall under Con<g ref="char:EOLhyphen"/>ſideration in my following Diſcourſes.</p>
+            <p>I am ſenſible there is one Objection, which, upon hearing the preſent Diſcourſe may ariſe in the Minds of Men who think ſeriouſly, and are not diſpos'd to cavil, <hi>viz.</hi> If the caſe of Humane Nature be ſo deplorable and compaſſionable, how comes it to paſs, that ſo ſmall a part of Mankind have receiv'd benefit even from the Chriſtian Re<g ref="char:EOLhyphen"/>velation? This Difficulty I would have conſi<g ref="char:EOLhyphen"/>der'd in this Lecture, if there had been room for it; but being prevented, I ſhall not forget it;
+<pb n="30" facs="tcp:54310:17"/>but aſſign it ſome fit place, if God pleaſe, before my Lectures are finiſh'd, intending in my next, to proceed in conſidering the nature of that Sal<g ref="char:EOLhyphen"/>vation, which our Saviour hath wrought out for us, and the manner in which he hath done it, whereby the <hi>Credibility</hi> of this ſaying in the Text may yet farther appear.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:54310:17"/>
+            <head>BOOKS <hi>Printed for</hi> Thomas Parkhurſt, <hi>at the</hi> Bible <hi>and</hi> Three Crowns <hi>in</hi> Cheapſide, <hi>near</hi> Mercers-Chappel.</head>
+            <p>FOrty Nine Sermons on the whole Epiſtle of the Apoſtle <hi>Paul</hi> to the <hi>Coloſſians,</hi> by Monſieur <hi>Daille,</hi> Miniſter of the Reformed Church in <hi>Paris.</hi> Folio.</p>
+            <p>A Treatiſe of Knowledge and Love in Two Parts. By Mr. <hi>Richard Baxter,</hi> Quarto.</p>
+            <p>The Poor Mans Help, and Young Mans Guide. Octavo.</p>
+            <p>An Argumentative and Practical Diſcourſe of Infant Baptiſm, in which the Lawfulneſs is demon<g ref="char:EOLhyphen"/>ſtrated, Objections anſwer'd, Uſefulneſs aſſerted, the Sinfulneſs of Re-baptizing manifeſted, Non<g ref="char:EOLhyphen"/>neceſſity of Dipping evidenced, and the Practical Uſe of Infant Baptiſm Urged and Inforced. Both by <hi>William Burkitt,</hi> M. A. of <hi>Pembrook Hall</hi> in <hi>Cambridge;</hi> now Vicar of <hi>Dedham</hi> in <hi>Eſſex.</hi> Octavo.</p>
+            <p>Sermons and Diſcourſes on ſeveral Divine Sub<g ref="char:EOLhyphen"/>jects. By the late Reverend and Learned <hi>David Clarkſon,</hi> B. D. and ſometime Fellow of <hi>Clare-Hall, Cambridge.</hi> Folio.</p>
+            <p>A Diſcourſe concerning Meekneſs and Quietneſs of Spirit; to which is added, a Sermon on <hi>Acts</hi> 28.22. ſhewing that the Chriſtian Religion is not a Sect. By <hi>Mat. Henry.</hi> Octavo.</p>
+            <p>Mr.
+<list>
+                  <item>
+                     <hi>John Howe</hi>'s</item>
+                  <item>
+                     <hi>John Spademan</hi>'s</item>
+                  <item>
+                     <hi>Mat. Sylveſter</hi>'s</item>
+                  <item>
+                     <hi>Dan. Chadwick</hi>'s</item>
+                  <item>
+                     <hi>John Whitlock</hi>'s</item>
+                  <item>
+                     <hi>John Barret</hi>'s</item>
+               </list> Sermons concerning Re<g ref="char:EOLhyphen"/>formation of <hi>Manners.</hi>
+            </p>
+            <pb facs="tcp:54310:18"/>
+            <p> Mr. <hi>Bradford</hi>'s Sermon preached before the King, <hi>Jan.</hi> 30th, 1698/9.</p>
+            <p>Theological Diſcourſes, in Two Parts: The firſt containing Eight Letters and Three Sermons concerning the Bleſſed Trinity: The ſecond, Diſ<g ref="char:EOLhyphen"/>courſes and Sermons on ſeveral Occaſions. By <hi>John Wallis,</hi> D. D. Profeſſor of <hi>Geometry</hi> in <hi>Oxford.</hi> 40.</p>
+            <p>A Calm and Sober Inquiry concerning the Poſſi<g ref="char:EOLhyphen"/>bility of a Trinity in the God-head, in a Letter to a Perſon of Worth: With certain Letters former<g ref="char:EOLhyphen"/>ly written to the Reverend Dr. <hi>Wallis</hi> on the ſame Subject.</p>
+            <p>A Letter to a Friend, concerning a Poſtſcript to the Defence of Dr. <hi>Sherlock</hi>'s Notion of the Tri<g ref="char:EOLhyphen"/>nity in Unity; relating to the Calm and Sober In<g ref="char:EOLhyphen"/>quiry on the ſame Subject.</p>
+            <p>A View of that part of the late Conſiderations addreſs'd to <hi>H. H.</hi> about the Trinity; which con<g ref="char:EOLhyphen"/>cerns the Sober Inquiry on that Subject. All three by Mr. <hi>John Howe.</hi> Octavo.</p>
+            <p>An Account of the Bleſſed Trinity, argued ſtom the Nature and Perfection of the Supreme Spirit, coincident with the Scripture Doctrine in all the Articles of the Catholick Creed. By <hi>W. Burrough,</hi> Rector of <hi>Chenis</hi> in <hi>Bucks.</hi> Quarto.</p>
+            <p>
+               <hi>Convivium Caeleſte:</hi> A Plain and Familiar Diſ<g ref="char:EOLhyphen"/>courſe concerning the Lord's Supper. The ſecond Edition with Additions.</p>
+            <p>A Sermon Preached before the King and Queen, <hi>Nov.</hi> 9. 1692. Both by <hi>Richard</hi> Lord Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </p>
+            <pb facs="tcp:54310:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
